@@ -1,3 +1,3 @@
-``o``&nbsp;&nbsp;``o``  
-&nbsp;&nbsp;``..``  
-``----``  
+Programming projects for the  
+Brain Imaging and EEG Laboratory  
+at UCSF
